@@ -1,0 +1,78 @@
+.origami{
+    color:white;
+    margin-left:700px;
+    height:50px;
+}
+.intro{
+    background-color: black;
+    height:500px;
+    
+}
+.inst{
+    color:rgb(255, 235, 250);
+    margin-left:10px;
+    margin-left:500px;
+}
+.inst2{
+    color:rgb(255, 235, 250);
+    margin-left:10px;
+    margin-left:650px;
+}
+.inst3{
+    color:rgb(255, 235, 250);
+    margin-left:10px;
+    margin-left:500px;
+}
+img{
+    height:200px; 
+    margin-top: 20px;
+    border:5px solid #555;
+    flex:1;
+}
+.header{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap; 
+    background-color: grey;
+}
+.burger{
+    color:azure;
+    margin-right: 350px;
+    margin-top: 3px;
+}
+.title{
+    color:azure;
+    margin-right: 280px;
+    margin-top: 4px;
+}
+.about{
+    margin-top: 20px;
+
+}
+.animals{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap; 
+    background-color: rgb(205, 205, 205);
+    margin-right: 20px;
+}
+.animalsbg{
+    background-color: white;
+    height:500px;
+    width:500px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.camel{
+    margin-left:140px;
+}
+.butterfly{
+    margin-left:100px;
+}
+.fact{
+    margin-left:80px;
+}
+.facts{
+    margin-left:20px;
+}
+
